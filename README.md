@@ -1,2 +1,2 @@
-maze.txt = map
+maze.txt = map,
 Save.txt = your savegame
