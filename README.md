@@ -1,2 +1,2 @@
-# C-Maze-Game
-C++ project from college
+maze.txt = map
+Save.txt = your savegame
